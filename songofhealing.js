@@ -5,4 +5,4 @@ $: stack(
   [F C Bb] [F E B G] [A A A D D D] [G G G C G] 
   [F F F Bb Bb Bb E D A E] [A A A D D D]  [G G G C G] 
   [F G C A Bb C D] [A B# D E]`)
-  .s('triangle').note().slow(24)
+  .s('triangle').note().slow(28)
